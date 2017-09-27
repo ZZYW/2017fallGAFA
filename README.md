@@ -66,7 +66,9 @@
 
 # Day 2 - Day 4: Processing
 
-1. Generativity 生成性
+1. How to use Github
+
+2. Generativity 生成性
 
     1. Basic programming concepts 编程基础
 
@@ -80,7 +82,7 @@
 
         4. Sketch: Walking Particles
 
-2. Interactivity 交互性
+3. Interactivity 交互性
 
     3. Processing Sound library 声音输入和输出
 
@@ -90,7 +92,7 @@
 
     6. OpenCV - Computer Vision 计算机视觉
 
-3. Project Idea Presentation  项目想法草案展示
+4. Project Idea Presentation  项目想法草案展示
 
 # Day 5 - 6: Physical Computing 物理计算 
 
@@ -102,7 +104,7 @@
 
 2. Sensors 感应器
 
-    3. Body 身体感应
+    1. Body 身体感应
 
         1. Pulse Sensor (heart) 心跳
 
@@ -110,7 +112,7 @@
 
         3. EEG Sensor (brain) 脑波
 
-    4. Environment 环境感应
+    2. Environment 环境感应
 
         4. Light 光线
 
