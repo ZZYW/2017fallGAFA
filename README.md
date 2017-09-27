@@ -12,7 +12,13 @@
 
         2. Fluxus
 
-        3. Digital Art
+            1. Fluxus is an attitude. It is not a movement or a style.[[119]](https://www.wikiwand.com/en/Fluxus#citenotesmith1119)
+
+            2. Fluxus is intermedia.[[120]](https://www.wikiwand.com/en/Fluxus#citenotehiggins1120) Fluxus creators like to see what happens when different media intersect. They use found and everyday objects, sounds, images, and texts to create new combinations of objects, sounds, images, and texts.
+
+            3. Fluxus works are simple. The art is small, the texts are short, and the performances are brief.
+
+            4. Fluxus is fun. Humor has always been an important element in Fluxus.
 
 2. Project critique 项目介绍
 
@@ -22,9 +28,11 @@
 
     5. Generativity
 
-        4. Casey Reas
+        3. Casey Reas
 
-            1. Casey’s Creator’s talk on [how to draw with code](https://www.youtube.com/watch?v=_8DMEHxOLQE)
+            5. Casey’s Creator’s talk on [how to draw with code](https://www.youtube.com/watch?v=_8DMEHxOLQE)
+
+        4. Rose Menkman [her exhibition at Transfer Gallery](http://transfergallery.com/behind-white-shadows-rosa-menkman/)
 
     6. Simulation Art:
 
