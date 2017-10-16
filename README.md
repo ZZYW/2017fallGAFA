@@ -2,25 +2,7 @@
 
 # Day 1: Theory and Project Critique 理论和作品介绍
 
-1. What is new media art ( tbd ) 新媒体艺术是什么
-
-    1. Wikipedia definition 
-
-    2. History of participatory art 参与性艺术
-
-        1. Happenings 
-
-        2. Fluxus
-
-            1. Fluxus is an attitude. It is not a movement or a style.[[119]](https://www.wikiwand.com/en/Fluxus#citenotesmith1119)
-
-            2. Fluxus is intermedia.[[120]](https://www.wikiwand.com/en/Fluxus#citenotehiggins1120) Fluxus creators like to see what happens when different media intersect. They use found and everyday objects, sounds, images, and texts to create new combinations of objects, sounds, images, and texts.
-
-            3. Fluxus works are simple. The art is small, the texts are short, and the performances are brief.
-
-            4. Fluxus is fun. Humor has always been an important element in Fluxus.
-
-2. Project critique 项目介绍
+1. Project critique 项目介绍
 
     3. Web Game: [Mollenindustria](http://www.molleindustria.org/) 
 
