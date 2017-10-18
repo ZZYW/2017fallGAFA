@@ -1,6 +1,6 @@
-# Syllabus for GAFA NMA workshop
+# Syllabus for GAFA 视觉编程与交互艺术 Visual Programming and Interactive Arts
 
-# Day 1: Theory and Project Critique 理论和作品介绍
+## 作品介绍
 
 1. Project critique 项目介绍
 
