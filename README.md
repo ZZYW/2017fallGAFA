@@ -54,23 +54,23 @@ Email: yang.wang.dec@gmail.com
 
 Warmup:
 
--	RGB Crawler [code](https://github.com/ZZYW/workshop-demo-sketches/blob/master/GenerativeArts/rgb/rgb.pde)
+####	RGB Crawler [code](https://github.com/ZZYW/workshop-demo-sketches/blob/master/GenerativeArts/rgb/rgb.pde)
 
 ### Interactivity:
 
--	Mic Input: 
+####	Mic Input: 
 
 code: Example -> Libraries -> Sound -> IO -> AudioInput
 
--	Video Scratch:
+####	Video Scratch:
 
 code: Example -> Libraries -> Video -> Scratch
 
--	Toggle two videos:
+####	Toggle two videos:
 
 [code](https://github.com/wangyangwang/toggle-videos/blob/master/toggleVideos.pde)
 
--	Kinect Skeleton Tracking
+####	Kinect Skeleton Tracking
 
 SimpleOpenNI for Processing 3 [download](http://pan.baidu.com/s/1boIcXzh)
 
@@ -78,7 +78,7 @@ code:
 
 Example -> Contributed Libraries -> SimpleOpenNI -> OpenNI -> User
 
--	Face Detection
+####	Face Detection
 
 code:
 
