@@ -1,5 +1,21 @@
 ## Git
 
+### 1. Homework Critique 作业评论
+
+### 2. Projects Intro. 艺术家及项目介绍
+
+0. Ian Cheng
+0. John Gerrad
+0. Carla Gannis
+
+
+### 3. 
+
+
+
+
+
+
 1. Install Git:
 [LINK](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
